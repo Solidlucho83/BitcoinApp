@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bitcoin Price Real Time</string>
+    <string name="bitcoin">Bitcoin </string>
+    <string name="obteniendo">Search price..</string>
+    <string name="ingresar">Enter amount to convert</string>
+    <string name="calculate">Calculate</string>
+    <string name="info_provider_https_coingecko_com">Info Provider: https://coingecko.com/</string>
+</resources>
